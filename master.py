@@ -1,6 +1,5 @@
 ### Sam Nicholson 2020
 ### Script to play war with itself
-%reset -f
 from collections import defaultdict
 import random 
 import statistics
